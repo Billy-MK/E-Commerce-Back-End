@@ -8,7 +8,7 @@ This project was to practice working with Sequelize and MySQL2 to design the bac
 
 ## Installation
 
-Download all files, run npm i, npm run seed, and npm start. Operations can be performed through Insomnia Core. Create the database using the schema in the db folder by running the code in MySQL Workbench.
+Download all files, install dependencies, run "npm run seed", then run "npm run start". Operations can be performed through Insomnia Core. Create the database using the schema in the db folder by running the code in MySQL Workbench.
 
 ## Table of Contents
 
